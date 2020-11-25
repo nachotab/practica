@@ -1,4 +1,4 @@
-
+ESTOY EN MI NUEVO BRANCH
 /*Hacer que el primer día de la semana sea el domingo */
 SET DATEFIRST 7;
 INSERT INTO Comidas(ComensalId, IngestaId, CentroId, Fecha, Servir, CierreEmplatadoId, CreatedBy, CreatedOn, UnidadEnfermeriaId, PuestoId)
