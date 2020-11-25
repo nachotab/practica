@@ -62,5 +62,6 @@ AND NOT EXISTS (
     WHERE ComensalId = P.ComensalId AND IngestaId = I.IngestaId AND Fecha = F.Fecha
 )
 ORDER BY F.Fecha, P.ComensalId, I.IngestaId;
+PROBAMOS CON ESTA NUEVA MODIFICACIÓN.
 
 NUEVA LINEA MODIFICACIÓN.
